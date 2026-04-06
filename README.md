@@ -3,9 +3,7 @@ Third-year Computer Engineering student at Esprit University, Tunis. I build ful
 
 🔨 What I'm currently working on
 
-Wannasni — a full-stack social platform (PHP/MySQL MVC) built with a team of 6 as my PIDEV capstone at Esprit
-AutoGenius — a desktop maintenance management system with facial-recognition login powered by OpenCV
-Looking for a full-stack or backend internship where I can ship real things
+A Java desktop application (in progress)
 
 
 🛠️ Tools & Tech I use
@@ -18,6 +16,5 @@ Tools: Git, GitHub, MySQL, GNS3, Cisco IOS, Adobe Photoshop / Illustrator / Prem
 📬 Reach me
 
 📧 azizmehrez050@gmail.com
-📞 +216 27 750 877
-🐙 github.com/AzizMehrez
+
 📍 Tunis, Tunisia
